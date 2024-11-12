@@ -273,6 +273,7 @@ export default function Home() {
               now
             </h2>
           </div>
+          
         </div>
         <div className="mx-auto max-w-6xl px-6 lg:px-8">
           <div className="relative flex flex-col items-center md:grid grid-cols-2 gap-40">
